@@ -1,8 +1,8 @@
 # UD28
 
-<h1><a href="https://kay-nicte.github.io/UD28/Ejercicio_1/Ejercicio2.html>Ejercicio 1</a></h1>
+<h1><a href="https://kay-nicte.github.io/UD28/Ejercicio_1/Ejercicio1.html>Ejercicio 1</a></h1>
 
-<h1><a href="https://kay-nicte.github.io/UD28/Ejercicio_1/Ejercicio2.html>Ejercicio 2</a></h1>
+<h1><a href="https://kay-nicte.github.io/UD28/Ejercicio_2/Ejercicio2.html>Ejercicio 2</a></h1>
 
 <h1><a href="https://kay-nicte.github.io/UD28/Ejercicio_3/Ejercicio3.html>Ejercicio 3</a></h1>
 
