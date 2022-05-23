@@ -1,0 +1,65 @@
+body {
+    width: 900px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-radius: 9px;
+}
+
+h2 {
+    color: rgb(142, 211, 38);
+}
+
+h3 {
+    color: rgba(194, 106, 65, 0.863);
+}
+
+a {
+    text-decoration: none;
+    color: rgba(51, 51, 51, 0.911);
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    margin-left: 15%;
+}
+
+.containerInferior {
+    display: flex;
+    flex-direction: row;
+}
+
+.contenidoInferior {
+    border: 2px solid rgba(51, 51, 51, 0.253);
+    margin-left: 5%;
+    padding-left: 2%;
+    background: linear-gradient(to top, rgba(138, 133, 133, 0.452), white, white, rgba(141, 135, 135, 0.466));
+}
+
+.navbarButton {
+    width: 150%;
+    height: 25px;
+    background-color: rgba(148, 214, 16, 0.582);
+    margin-bottom: 7%;
+    border: 1px solid rgba(51, 51, 51, 0.151);
+    padding-top: 4px;
+    text-align: center;
+    background: linear-gradient(to top, rgba(148, 214, 16, 0.582), white);
+}
+
+.navbarButton:hover {
+    font-weight: bold;
+    background-color: transparent !important;
+}
+
+#inicio,
+#especies {
+    background: linear-gradient(to bottom, rgba(160, 81, 45, 0.486), white);
+}
+
+#footer {
+    color: lightgrey;
+    text-align: center;
+    margin-top: 2%;
+}
